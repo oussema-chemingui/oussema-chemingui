@@ -1,16 +1,22 @@
-## Hi there 👋
+⚡ Oussema Chemingui | Fullstack & GenAI Software Engineer
+Passionate about designing complex systems and integrating Generative Artificial Intelligence. I apply my background in mathematics to software development to architect robust, scalable, and performance-driven SaaS solutions.
 
-<!--
-**oussema-chemingui/oussema-chemingui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is simple: to transform complex problems into seamless technological solutions.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Arsenal
+Ecosystem & Frontend: Next.js, React, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend & Cloud: Node.js, Python, Google Cloud Platform (GCP), Firebase
+
+Artificial Intelligence: Gemini Models, Google Genkit, Vertex AI
+
+🧠 Coding Philosophy
+Analytical Problem Solving: A structured, mathematical approach to every architectural challenge.
+
+Clean Architecture: Maintainable code, designed to scale without technical debt.
+
+Continuous Innovation: Constant exploration of GenAI capabilities to optimize processes.
+
+📬 Let's Connect
+✉️ Email: oussema@vaiibe.com
+💼 LinkedIn: https://www.linkedin.com/in/oussema-chemingui-13b9b7209/
